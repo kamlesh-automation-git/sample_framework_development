@@ -1,9 +1,0 @@
-pageObjects\PageObject1.class
-testCases\TC2.class
-pageObjects\BasePage.class
-utilities\ExtentReportManager.class
-utilities\dataProvider.class
-pageObjects\PageObject2.class
-utilities\ExcelUtility.class
-testBase\BaseClass.class
-testCases\TC1.class

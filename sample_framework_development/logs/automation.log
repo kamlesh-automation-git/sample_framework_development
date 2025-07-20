@@ -65,3 +65,4 @@
 15:08:54.711 [main] INFO  testCases.TC2 - ********Stating of the xyz test************
 15:08:54.712 [main] INFO  testCases.TC2 - I am doing this
 15:08:54.712 [main] INFO  testCases.TC2 - I am doing that
+00:04:25.077 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\eclipse_1\workingspace\sample_framework_development\master.xml"
