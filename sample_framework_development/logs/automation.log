@@ -1,0 +1,67 @@
+08:57:33.082 [main] INFO  testCases.TC1 - ********Stating of the xyz test************
+08:57:33.085 [main] INFO  testCases.TC1 - I am doing this
+08:57:33.085 [main] INFO  testCases.TC1 - I am doing that
+09:44:24.767 [main] INFO  testCases.TC1 - ********Stating of the xyz test************
+09:44:24.769 [main] INFO  testCases.TC1 - I am doing this
+09:44:24.769 [main] INFO  testCases.TC1 - I am doing that
+09:44:24.769 [main] TRACE testCases.TC1 - I am doing this and that
+13:07:25.601 [main] INFO  testCases.TC1 - The result of the reusable method is: xyz
+13:07:25.604 [main] INFO  testCases.TC1 - ********Stating of the xyz test************
+13:07:25.605 [main] INFO  testCases.TC1 - I am doing this
+13:07:25.605 [main] INFO  testCases.TC1 - I am doing that
+13:07:30.451 [main] INFO  testCases.TC2 - ********Stating of the xyz test************
+13:07:30.451 [main] INFO  testCases.TC2 - I am doing this
+13:07:30.451 [main] INFO  testCases.TC2 - I am doing that
+13:11:56.165 [main] INFO  testCases.TC1 - The result of the reusable method is: xyz
+13:11:56.167 [main] INFO  testCases.TC1 - ********Stating of the xyz test************
+13:11:56.167 [main] INFO  testCases.TC1 - I am doing this
+13:11:56.167 [main] INFO  testCases.TC1 - I am doing that
+13:12:01.016 [main] INFO  testCases.TC2 - ********Stating of the xyz test************
+13:12:01.017 [main] INFO  testCases.TC2 - I am doing this
+13:12:01.017 [main] INFO  testCases.TC2 - I am doing that
+13:14:04.266 [main] INFO  testCases.TC1 - The result of the reusable method is: xyz
+13:14:04.268 [main] INFO  testCases.TC1 - ********Stating of the xyz test************
+13:14:04.269 [main] INFO  testCases.TC1 - I am doing this
+13:14:04.269 [main] INFO  testCases.TC1 - I am doing that
+13:14:09.096 [main] INFO  testCases.TC2 - ********Stating of the xyz test************
+13:14:09.096 [main] INFO  testCases.TC2 - I am doing this
+13:14:09.096 [main] INFO  testCases.TC2 - I am doing that
+13:18:41.517 [main] INFO  testCases.TC1 - The result of the reusable method is: xyz
+13:18:41.519 [main] INFO  testCases.TC1 - ********Stating of the xyz test************
+13:18:41.519 [main] INFO  testCases.TC1 - I am doing this
+13:18:41.519 [main] INFO  testCases.TC1 - I am doing that
+13:18:46.367 [main] INFO  testCases.TC2 - ********Stating of the xyz test************
+13:18:46.368 [main] INFO  testCases.TC2 - I am doing this
+13:18:46.368 [main] INFO  testCases.TC2 - I am doing that
+13:21:27.971 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\eclipse_1\workingspace\sample_framework_development\master.xml"
+13:21:33.472 [main] INFO  testCases.TC1 - The result of the reusable method is: xyz
+13:21:33.473 [main] INFO  testCases.TC1 - ********Stating of the xyz test************
+13:21:33.473 [main] INFO  testCases.TC1 - I am doing this
+13:21:33.473 [main] INFO  testCases.TC1 - I am doing that
+13:21:38.424 [main] INFO  testCases.TC2 - ********Stating of the xyz test************
+13:21:38.424 [main] INFO  testCases.TC2 - I am doing this
+13:21:38.424 [main] INFO  testCases.TC2 - I am doing that
+14:58:08.425 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\eclipse_1\workingspace\sample_framework_development\master.xml"
+14:58:18.759 [main] INFO  testCases.TC1 - The result of the reusable method is: xyz
+14:58:18.759 [main] INFO  testCases.TC1 - ********Stating of the xyz test************
+14:58:18.759 [main] INFO  testCases.TC1 - I am doing this
+14:58:18.759 [main] INFO  testCases.TC1 - I am doing that
+14:58:23.795 [main] INFO  testCases.TC2 - ********Stating of the xyz test************
+14:58:23.795 [main] INFO  testCases.TC2 - I am doing this
+14:58:23.795 [main] INFO  testCases.TC2 - I am doing that
+15:01:38.595 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\eclipse_1\workingspace\sample_framework_development\master.xml"
+15:01:44.124 [main] INFO  testCases.TC1 - The result of the reusable method is: xyz
+15:01:44.124 [main] INFO  testCases.TC1 - ********Stating of the xyz test************
+15:01:44.124 [main] INFO  testCases.TC1 - I am doing this
+15:01:44.124 [main] INFO  testCases.TC1 - I am doing that
+15:01:49.259 [main] INFO  testCases.TC2 - ********Stating of the xyz test************
+15:01:49.259 [main] INFO  testCases.TC2 - I am doing this
+15:01:49.259 [main] INFO  testCases.TC2 - I am doing that
+15:08:46.482 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\eclipse_1\workingspace\sample_framework_development\master.xml"
+15:08:52.033 [main] INFO  testCases.TC1 - The result of the reusable method is: xyz
+15:08:52.033 [main] INFO  testCases.TC1 - ********Stating of the xyz test************
+15:08:52.033 [main] INFO  testCases.TC1 - I am doing this
+15:08:52.033 [main] INFO  testCases.TC1 - I am doing that
+15:08:54.711 [main] INFO  testCases.TC2 - ********Stating of the xyz test************
+15:08:54.712 [main] INFO  testCases.TC2 - I am doing this
+15:08:54.712 [main] INFO  testCases.TC2 - I am doing that
